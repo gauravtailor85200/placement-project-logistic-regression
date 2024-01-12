@@ -27,4 +27,4 @@ Include a summary of the model's performance, evaluation metrics, and any insigh
 Discuss potential enhancements, such as feature engineering, parameter tuning, or trying different models for comparison.
 
 ## Author
-[Your Name]
+Gaurav Tailor
